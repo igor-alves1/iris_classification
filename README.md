@@ -7,7 +7,7 @@ Este projeto foi realizado utilizando este [dataset](https://archive.ics.uci.edu
 ### Execução
 
 Para executar o projeto, basta instalar as bibliotecas necessárias, presentes no arquivo ```requirements.txt```, e rodar o arquivo 
-Jupyter Notebooks ```main.ipynb```.
+Jupyter Notebooks ```iris.ipynb```.
 
 ### Resultados
 
